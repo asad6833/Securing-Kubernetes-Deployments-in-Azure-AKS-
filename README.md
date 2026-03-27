@@ -40,9 +40,6 @@ The environment is already deployed but lacks proper security controls. Your goa
 
 ---
 
-## 🖼️ Screenshot: AKS Overview
-![AKS Overview](./screenshots/taskA-aks-overview.png)
-
 ---
 
 ## 🔎 Node Pool Review
@@ -53,8 +50,7 @@ The environment is already deployed but lacks proper security controls. Your goa
 
 ---
 
-## 🖼️ Screenshot: Node Pool
-![Node Pool](./screenshots/taskA-nodepool.png)
+
 
 ---
 
